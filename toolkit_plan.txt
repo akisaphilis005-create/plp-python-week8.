@@ -1,0 +1,23 @@
+
+WEEK 8 ASSIGNMENT: PERSONAL TOOLKIT PLAN
+
+TOOL 1: SIMPLE CALCULATOR
+The calculator adds, subtracts, multiplies, and divides two numbers.
+Concepts: Functions, conditionals, input, try/except, and f-strings.
+
+TOOL 2: TO-DO LIST
+The to-do list allows users to add tasks, view tasks, and remove tasks.
+Concepts: Lists, loops, conditionals, and f-strings.
+
+TOOL 3: NUMBER GUESSING GAME
+The game asks the user to guess a secret number until they get it right.
+Concepts: While loop, conditionals, random numbers, and f-strings.
+
+EXACT MENU TEXT:
+
+===== MY PERSONAL TOOLKIT =====
+1. Simple Calculator
+2. To-Do List
+3. Number Guessing Game
+4. Quit
+Enter your choice (1-4):
